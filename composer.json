@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "configcat/configcat-client": "^6.2",
+        "configcat/configcat-client": "^8.1",
         "illuminate/contracts": ">=5.4"
     },
     "require-dev": {
